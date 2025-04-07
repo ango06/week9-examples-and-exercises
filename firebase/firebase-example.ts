@@ -66,17 +66,10 @@ async function main(){
     //get your neighbor's user entry
 
 
-    //get your neighbor's favorite food from the collection
-
-
-    //add your neigbor's favorite food to their "orders" and output their update user entry
-
-
     //remove your neighbor from the user collection :(
 
 
     //output updated user collection
-
 }
 
 main();
