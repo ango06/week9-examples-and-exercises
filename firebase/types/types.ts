@@ -12,3 +12,4 @@ export interface Food{
     ingredients: string[];
     name: string;
 }
+
